@@ -1,0 +1,1 @@
+print('Empty - since empty square bracket evaluates to Falsy')
